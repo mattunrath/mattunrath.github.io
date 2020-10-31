@@ -46,12 +46,3 @@ Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-un
 *with Alex Gelber*
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
