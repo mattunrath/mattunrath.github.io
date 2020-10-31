@@ -21,7 +21,7 @@ Media Coverage: [NPR](https://www.npr.org/sections/money/2020/02/04/801341011/th
 
 <br />
 
-**[Measuring the Labor Market at the Onset of the COVID-19 Crisis](mattunrath.github.io/files/research/bartik_etal_july212020.pdf)**  
+**[Measuring the Labor Market at the Onset of the COVID-19 Crisis](https://mattunrath.github.io/files/research/bartik_etal_july212020.pdf)**  
 *[Forthcoming -- Brookings Papers on Economic Activity]*  
 *with Alexander W. Bartik, Marianne Bertrand, Feng Lin, and Jesse Rothstein*  
 View [latest research](https://irle.berkeley.edu/post-six-measuring-the-labor-market-since-the-onset-of-the-covid-19-crisis/).  
