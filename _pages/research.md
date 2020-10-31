@@ -13,7 +13,7 @@ author_profile: true
   
 <br />
 
-**[Can Nudges Increase Take-up of the Earned Income Tax Credit?: Evidence from Multiple Field Experiments](mattunrath.github.io/files/research/NudgesEITC.pdf)**  
+**[Can Nudges Increase Take-up of the Earned Income Tax Credit?: Evidence from Multiple Field Experiments](https://mattunrath.github.io/files/research/NudgesEITC.pdf)**  
 *[Revise and Resubmit -- American Economic Journal: Economic Policy]*   
 *with Elizabeth Linos, Allen Prohofsky, Aparna Ramesh, and Jesse Rothstein*  
 Media Coverage: [NPR](https://www.npr.org/sections/money/2020/02/04/801341011/the-limits-of-nudging-why-cant-california-get-people-to-take-free-money)  
