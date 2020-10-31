@@ -14,7 +14,7 @@ author_profile: true
 <br />
 
 **[Can Nudges Increase Take-up of the Earned Income Tax Credit?: Evidence from Multiple Field Experiments]()**  
-*[Revise and Resubmit -- AEJ:Policy]*   
+*[Revise and Resubmit -- American Economic Journal: Economic Policy]*   
 *with Elizabeth Linos, Allen Prohofsky, Aparna Ramesh, and Jesse Rothstein*  
 Media Coverage: [NPR](https://www.npr.org/sections/money/2020/02/04/801341011/the-limits-of-nudging-why-cant-california-get-people-to-take-free-money)  
 <div style="text-align: justify"> <b>Abstract:</b> The Earned Income Tax Credit (EITC) distributes more than $60 billion to over 20 million low-income families annually. Nevertheless, an estimated one-fifth of eligible households do not claim it. We ran six pre-registered, large-scale field experiments, involving over one million subjects, to test whether “nudges” could increase EITC take-up. Despite varying the content, design, messenger, and mode of our messages, we find no evidence that they affected households’ likelihood of filing a tax return or claiming the credit. We conclude that even the most behaviorally informed low-touch outreach efforts cannot overcome the barriers faced by low-income households who do not file returns.</div>
