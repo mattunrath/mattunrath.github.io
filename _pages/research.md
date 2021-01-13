@@ -30,7 +30,7 @@ Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-un
 
 <br />
 
-**[Retention, Screening and Retention: Evidence from California's Food Stamps Program](https://mattunrath.github.io/files/research/Unrath_SNAP_Dec2020.pdf)**
+**[Retention, Screening, and Targeting: Evidence from California's Food Stamps Program](https://mattunrath.github.io/files/research/Unrath_SNAP_Dec2020.pdf)**
 <div style="text-align: justify"> <b>Abstract:</b> Many households eligible for the Supplemental Nutrition Assistance Program (SNAP) do not enroll. Using a new dataset of monthly enrollment histories for all SNAP participants in California between 2005 and 2020, this paper documents how procedures required to verify eligibility lower retention and contribute to incomplete take-up. Whether this non-participation is optimal depends on whether these hassles most deter enrollment among more advantaged prospective applicants. I find that the vast majority of households who exit SNAP are income eligible in the months before and after their exit. At the same time,  no longer eligible households, those with higher earnings and those less likely to be food insecure are more likely to exit. My findings underscore the policy tradeoff inherent to administering means-tested programs.</div>
 
 
