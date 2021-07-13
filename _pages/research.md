@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Beating the clock: Using year-end changes to identify intensive margin labor supply responses to taxation](https://mattunrath.github.io/files/research/Unrath_JMP.pdf)**  
+**[Beating the clock: Using Year-end changes to Identify Intensive Margin Labor Supply responses to Taxation](https://mattunrath.github.io/files/research/Unrath_JMP.pdf)**  
 *[Job Market Paper]*
 <div style="text-align: justify"> <font size="3"> <b>Abstract:</b> Identifying the effect of taxes on the labor supply of people who would work regardless has been a longstanding empirical challenge. This paper proposes a new source of variation -- changes in projected year-end tax rates -- to measure households' intensive-margin labor supply elasticity. I extend the standard non-linear budget set approach to model multiple periods and uncertainty about future employment to predict how households will adjust labor supply throughout the tax year as a function of to-date earnings. I use survey and administrative data to measure how low-income households' earnings and employment vary within and across tax years and study how these households respond to changes in tax incentives. In contrast to most work studying employment responses to the Earned Income Tax Credit, I find a non-zero response to tax incentives among workers. My preferred estimates of intensive margin labor supply elasticity that ranges between .06 and .2, which are are similar to those estimated in an older literature which used non-linear budget set to estimate labor supply elasticities.</font> </div>
   
@@ -44,10 +44,10 @@ Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-un
 
 ## Works in Progress
 
-**Employer search and labor market slack: Evidence from job postings and administrative data**  
+**Employer Search and Labor Market Slack: Evidence from Job Postings and Administrative Data**  
 *with Krista Ruffini*
 
-**Measuring the discounted value of future compensation**  
+**Measuring the Discounted Value of Future Compensation**  
 *with Alex Gelber*
 
 
