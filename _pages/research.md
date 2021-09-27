@@ -14,7 +14,7 @@ author_profile: true
 <br />
 
 **[Can Nudges Increase Take-up of the Earned Income Tax Credit?: Evidence from Multiple Field Experiments](https://mattunrath.github.io/files/research/Linos_etal_EITC.pdf)**  
-*[Revise and Resubmit -- American Economic Journal: Economic Policy]*   
+*[American Economic Journal: Economic Policy]*   
 *with Elizabeth Linos, Allen Prohofsky, Aparna Ramesh, and Jesse Rothstein*  
 Media Coverage: [NPR](https://www.npr.org/sections/money/2020/02/04/801341011/the-limits-of-nudging-why-cant-california-get-people-to-take-free-money)  
 <div style="text-align: justify"> <b>Abstract:</b> The Earned Income Tax Credit (EITC) distributes more than $60 billion to over 20 million low-income families annually. Nevertheless, an estimated one-fifth of eligible households do not claim it. We ran six pre-registered, large-scale field experiments, involving over one million subjects, to test whether “nudges” could increase EITC take-up. Despite varying the content, design, messenger, and mode of our messages, we find no evidence that they affected households’ likelihood of filing a tax return or claiming the credit. We conclude that even the most behaviorally informed low-touch outreach efforts cannot overcome the barriers faced by low-income households who do not file returns.</div>
@@ -22,7 +22,7 @@ Media Coverage: [NPR](https://www.npr.org/sections/money/2020/02/04/801341011/th
 <br />
 
 **[Measuring the Labor Market at the Onset of the COVID-19 Crisis](https://mattunrath.github.io/files/research/bartik_etal_july212020.pdf)**  
-*[Forthcoming -- Brookings Papers on Economic Activity]*  
+*[Brookings Papers on Economic Activity]*  
 *with Alexander W. Bartik, Marianne Bertrand, Feng Lin, and Jesse Rothstein*  
 View [latest research](https://irle.berkeley.edu/post-six-measuring-the-labor-market-since-the-onset-of-the-covid-19-crisis/).  
 Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-unemployment-washington.html), [NYT](https://www.nytimes.com/interactive/2020/08/05/upshot/us-unemployment-maps-coronavirus.html), [WSJ](https://www.wsj.com/articles/as-states-begin-to-reopen-many-stay-homekeeping-economic-rebound-elusive-11588411801), [Slate](https://slate.com/business/2020/06/unemployment-benefits-end-july-republicans.html), [WaPo](https://www.washingtonpost.com/opinions/the-myth-of-unemployment-benefits-depressing-work/2020/08/03/54cca9f4-d5ba-11ea-9c3b-dfc394c03988_story.html)
@@ -42,12 +42,5 @@ Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-un
 
 
 
-## Works in Progress
-
-**Employer Search and Labor Market Slack: Evidence from Job Postings and Administrative Data**  
-*with Krista Ruffini*
-
-**Measuring the Discounted Value of Future Compensation**  
-*with Alex Gelber*
 
 

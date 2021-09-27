@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Goldman School of Public Policy and a Research Fellow at the [California Policy Lab](www.capolicylab.com) at UC Berkeley.
+I am an economist at the US Census Bureau. I received my PhD in Public Policy from UC Berkeley, where I was a Research Fellow at the [California Policy Lab](www.capolicylab.com).
 
 My research focuses on households' interactions with transfer policies and means-tested programs. I study why some individuals fail to take-up assistance for which they're eligible and whether these programs affect how much individuals choose to work.
 
