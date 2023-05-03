@@ -5,13 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
-
-**[Beating the clock: Using Year-end changes to Identify Intensive Margin Labor Supply responses to Taxation](https://mattunrath.github.io/files/research/Unrath_JMP.pdf)**  
-*[Job Market Paper]*
-<div style="text-align: justify"> <font size="3"> <b>Abstract:</b> Identifying the effect of taxes on the labor supply of people who would work regardless has been a longstanding empirical challenge. This paper proposes a new source of variation -- changes in projected year-end tax rates -- to measure households' intensive-margin labor supply elasticity. I extend the standard non-linear budget set approach to model multiple periods and uncertainty about future employment to predict how households will adjust labor supply throughout the tax year as a function of to-date earnings. I use survey and administrative data to measure how low-income households' earnings and employment vary within and across tax years and study how these households respond to changes in tax incentives. In contrast to most work studying employment responses to the Earned Income Tax Credit, I find a non-zero response to tax incentives among workers. My preferred estimates of intensive margin labor supply elasticity that ranges between .06 and .2, which are are similar to those estimated in an older literature which used non-linear budget set to estimate labor supply elasticities.</font> </div>
-  
-<br />
+## Published Papers
 
 **[Can Nudges Increase Take-up of the Earned Income Tax Credit?: Evidence from Multiple Field Experiments](https://mattunrath.github.io/files/research/Linos_etal_EITC.pdf)**  
 *[American Economic Journal: Economic Policy]*   
@@ -30,6 +24,8 @@ Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-un
 
 <br />
 
+## Working Papers
+
 **[Targeting, Screening, and Retention: Evidence from California's Food Stamps Program](https://mattunrath.github.io/files/research/Unrath_SNAP.pdf)**
 **[Online Appendix](https://mattunrath.github.io/files/research/Unrath_SNAP_Appendix.pdf)**
 <div style="text-align: justify"> <b>Abstract:</b> Many households eligible for the Supplemental Nutrition Assistance Program (SNAP) do not enroll. Using a new dataset of monthly enrollment histories for all SNAP participants in California between 2005 and 2020, this paper documents how procedures required to verify eligibility lower retention and contribute to incomplete take-up. Whether this non-participation is optimal depends on whether these hassles most deter enrollment among more advantaged prospective applicants. I find that the vast majority of households who exit SNAP are income eligible in the months before and after their exit. At the same time,  no longer eligible households, those with higher earnings and those less likely to be food insecure are more likely to exit. My findings underscore the policy tradeoff inherent to administering means-tested programs.</div>
@@ -41,7 +37,11 @@ Media Coverage: [NYT](https://www.nytimes.com/2020/04/09/business/coronavirus-un
 <div style="text-align: justify"> <b>Abstract:</b> The Earned Income Tax Credit (EITC) is the country’s largest cash-based means-tested transfer program, delivering \$63 billion to 25 million households in 2019. Twenty-eight states supplement the federal credit. Though an estimated one-fifth of eligible households fail to claim the federal credit, little is known about take-up of these state supplements. We use administrative data from California on the population of Supplemental Nutrition Assistance Program (SNAP) recipients, linked to state tax records, to estimate the number of households who are eligible for California’s supplement to the federal EITC but do not claim it. We find that nearly half a million households who receive SNAP benefits and who were eligible for the state EITC in 2017 did not receive the credit. This includes approximately 42,000 eligible households who claimed the federal EITC but not the state credit; 110,000 eligible households who filed a state tax return but did not claim the state credit; and 290,000 eligible households who did not file a state tax return. The corresponding take-up rate for the CalEITC among eligible SNAP-enrolled households was 54\%. Altogether, these households left on the table a total of \$75 million in state EITC funds. If received, these credits would have increased incomes among these households by 2.6\% and increased total state EITC outlays by 38.8\%.</div>
 
 
-
+**[Beating the clock: Using Year-end changes to Identify Intensive Margin Labor Supply responses to Taxation](https://mattunrath.github.io/files/research/Unrath_JMP.pdf)**  
+*[Job Market Paper]*
+<div style="text-align: justify"> <font size="3"> <b>Abstract:</b> Identifying the effect of taxes on the labor supply of people who would work regardless has been a longstanding empirical challenge. This paper proposes a new source of variation -- changes in projected year-end tax rates -- to measure households' intensive-margin labor supply elasticity. I extend the standard non-linear budget set approach to model multiple periods and uncertainty about future employment to predict how households will adjust labor supply throughout the tax year as a function of to-date earnings. I use survey and administrative data to measure how low-income households' earnings and employment vary within and across tax years and study how these households respond to changes in tax incentives. In contrast to most work studying employment responses to the Earned Income Tax Credit, I find a non-zero response to tax incentives among workers. My preferred estimates of intensive margin labor supply elasticity that ranges between .06 and .2, which are are similar to those estimated in an older literature which used non-linear budget set to estimate labor supply elasticities.</font> </div>
+  
+<br />
 
 
 
