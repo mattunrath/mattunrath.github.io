@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist at the US Census Bureau. I received my PhD in Public Policy from UC Berkeley, where I was a Research Fellow at the [California Policy Lab](www.capolicylab.com).
+I am an Assistant Professor at the Sol Price School of Public Policy at the University of Southern California. Previously, I served as an economist at the US Census Bureau. I received a PhD in Public Policy from UC Berkeley, and I remain an affiliate of the California Policy Lab.
 
-My research focuses on households' interactions with transfer policies and means-tested programs. I study why some individuals fail to take-up assistance for which they're eligible and whether these programs affect how much individuals choose to work.
-
-My research has been funded by the UC Berkeley Institute for Research on Labor and Employment, the University of Wisconsin Institute for Research on Poverty, the Horowitz Foundation for Social Policy, and the UC Berkeley Opportunity Lab.
-
+My research focuses on how individuals interact with tax and transfer policies. I study why households do not take up assistance for which they're eligible and whether these programs affect how much individuals work. With Census colleagues, I also research how to improve income and poverty measurement using linked survey and administrative data.
